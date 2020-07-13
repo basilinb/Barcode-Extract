@@ -1,7 +1,8 @@
 # Barcode-extract
 Use this python script to extract barcodes from your fastq.gz file for Qiime 2 analysis
-Before running install the following package:
-Biopython:
+
+Before running install Biopython using the command given below:
+
 pip install biopython
 
 To run barcode_split.py:
